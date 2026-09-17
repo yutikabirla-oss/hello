@@ -1,1 +1,4 @@
-requirements.txt
+streamlite
+pandas
+matplotlib
+
